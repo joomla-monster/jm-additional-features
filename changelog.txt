@@ -1,0 +1,4 @@
+1.09
+
+* Added textarea to display content below icons
+* Fixing bug related to links duplicate while linking icons is set on
